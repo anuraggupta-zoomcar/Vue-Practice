@@ -16,7 +16,7 @@
     
     <!-- v-html -->
     <div>
-        <div v-html="rawHtml"></div>
+        <div v-html="rawHtml"></div> 
     </div>
 
     <!-- v-show (default is visible) -->
